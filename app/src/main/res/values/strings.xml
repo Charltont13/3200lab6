@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">k2023_04_17_VideoViewV</string>
+    <string name="app_name">Audio_Video_App</string>
+    <string name="play_video">Play Video</string>
+    <string name="pause_video">Pause Video</string>
+    <string name="next_video">Next Video</string>
+    <string name="play_audio">Play Audio</string>
+    <string name="pause_audio">Pause Audio</string>
+    <string name="next_audio">Next Audio</string>
+
+    <!-- Radio Stream URLs -->
+
 </resources>
